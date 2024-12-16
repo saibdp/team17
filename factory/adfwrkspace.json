@@ -1,0 +1,9 @@
+{
+	"name": "adfwrkspace",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1c9cf1a6-a460-40aa-8e46-79bec412c828",
+		"tenantId": "037a5020-1428-4492-8693-b0990cc6ffa4"
+	}
+}
